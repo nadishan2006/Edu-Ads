@@ -40,9 +40,3 @@ A modern, responsive, and lightning-fast platform for sharing educational news, 
 
 ---
 
-## 🔧 Setup Instructions
-
-1. **Clone the repo**
-   ```bash
-   git clone https://github.com/yourusername/edu-ads.git
-   cd edu-ads
